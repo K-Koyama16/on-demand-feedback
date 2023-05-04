@@ -1,5 +1,10 @@
 # On-demand feedback
-## CODE
+## Article
+> **Functional improvement in β cell models of type 2 diabetes using on-demand feedback control**
+> Keita Koyama, Hiroyasu Ando, Kantaro Fujiwara  
+> AIP Advances Volume13, Isuue4, April 2023  
+> https://doi.org/10.1063/5.0124625
+## src
 ### python script
 - numerical_solution.py
   - runge-kutta method
@@ -16,4 +21,7 @@
   - stochastic Riz
 - heatmap.py
 
+### notebook
+- ShowHeatmap.ipynb (using functions in hetamap.py)
+- TimeSeries.ipynb
 
